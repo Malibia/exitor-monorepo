@@ -1,2 +1,2 @@
-###Exitor Monorepo
+Exitor Monorepo
 
