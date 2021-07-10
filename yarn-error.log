@@ -1,0 +1,34 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  cType;C:\Users\celestino\AppData\Roaming\nvm;%NVM_SYMLINK%;C:\Program Files\Git\cmd;C:\Python27;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\users\celestino\appdata\local\packages\pythonsoftwarefoundation.python.3.8_qbz5n2kfra8p0\localcache\local-packages\python38\site-packages;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Go\bin;C:\Users\celestino\AppData\Local\Microsoft\WindowsApps;C:\Users\celestino\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\celestino\.dotnet\tools;C:\Users\celestino\go\bin;\bin;C:\Users\celestino\AppData\Local\Microsoft\WindowsApps;C:\Python3X\Scripts;C:\Python27\;C:\Cassandra\apache-cassandra-3.11.6\apache-cassandra-3.11.10\bin;C:\Ruby27-x64\bin;C:\Users\celestino\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\celestino\AppData\Roaming\cabal\bin;C:\tools\ghc-9.0.1\bin;C:\tools\msys64;
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  11.0.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\celestino\Malibia\exitor-monorepo\package.json: Unexpected token } in JSON at position 56
+      at JSON.parse (<anonymous>)
+      at C:\Users\celestino\AppData\Roaming\nvm\v11.0.0\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\celestino\AppData\Roaming\nvm\v11.0.0\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\celestino\AppData\Roaming\nvm\v11.0.0\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+      "private": true,
+      "workspaces":["packages/*"],
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
