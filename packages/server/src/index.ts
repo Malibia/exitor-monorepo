@@ -1,3 +1,3 @@
-import { add } from "@cashew/common";
+import { startServer } from "./startServer";
 
-console.log(add(1, 2));
+startServer();
