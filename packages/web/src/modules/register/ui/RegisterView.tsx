@@ -16,6 +16,8 @@ interface Props {
     submit: (values: FormValues) => Promise<FormikErrors<FormValues> | null>;
 }
 
+
+// TO: DO; Require Algorand Wallet Address
 // Wrapped with a higher-order component
 class C extends React.PureComponent<FormikProps<FormValues> & Props> {
     render() {
