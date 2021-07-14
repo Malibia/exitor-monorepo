@@ -1,5 +1,5 @@
 {
-  "name": "graphql-ts-server-boilerplate",
+  "name": "@exitor-monorepo/server",
   "version": "1.0.0",
   "description": "Exitor graphql server developed with TypeORM",
   "devDependencies": {
