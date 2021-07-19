@@ -15,5 +15,5 @@ Main Features:
 - [X] Edit Created Asset exclusively on Exitor
 - [X] Delete Created Asset exclusively on Exitor 
 
-Exitor is an exiting platform exclusively for small businesses and sole proprietorships
+Exitor is an open-source business exiting platform exclusively for small businesses and sole proprietorships
 
