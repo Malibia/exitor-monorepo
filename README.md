@@ -1,7 +1,7 @@
 
-__EXITOR MONOREPO__(Active Development)
+__EXITOR MONOREPO__(In Active Development)
 
-**In Active Development, code will get pushed gradually in the next 2-3 weeks spanning to the next month
+**In Active Development, code will get pushed gradually in the next 2-3 weeks spanning to the next month**
 
 Yarn Workspaces, Typescript, React, React Native, GraphQL
 
